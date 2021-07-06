@@ -1,0 +1,16 @@
+#TOTAL OF 5 PARAMETERS
+
+# N - Number of timesteps - Horizon  
+N: 8
+
+# dt - Sampling time
+dt: 0.1
+
+# L - Bicycle Length
+L: 1
+
+# v_limit - Velocity Limit
+v_limit: 2.5
+
+# sa_limit - Steering angle Limit
+sa_limit: 1.0
